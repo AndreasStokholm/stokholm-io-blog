@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Debugging PHP"
+title:  "Debugging PHP the right way"
 ---
 
 1. Explain why debugging is awesome, and why you should use it.
