@@ -174,3 +174,16 @@ pre {
 #contact-list .btn-sm {
 	width:38px;
 }
+
+::-moz-selection { text-shadow: none; background: #f9f7d1; }
+
+::selection { text-shadow: none; background: #f9f7d1; }
+
+.green-text {
+	color:#739f40;
+}
+
+.dropdown-menu>li>a:hover {
+	background: #f9f7d1;
+	color:#333;
+}
