@@ -1,0 +1,9 @@
+{
+  "name": "stokholm-io-blog",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-jekyll": "~0.4.1",
+    "grunt-aws": "~0.3.0"
+  }
+}
