@@ -9,11 +9,8 @@ title: Andreas Stokholm
 description:
 author:
   name: Andreas Stokholm
-  email: andreas@stokholm.me
   github: andreasstokholm
   twitter: stkhlm
-  linkedin: stkhlm
-  instagram: stkhlm
   bio: Web developer, tinkerer and nerd
   email_md5: cbd349f81dfcd20c67465c87e8f95cfe
 
@@ -27,11 +24,11 @@ tags_path: tags.html
 # Do not put a "/" at the end of the url.
 #
 # CNAME (http://yourcustomdomain.com)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
+#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK
 #   (urls will be prefixed with "/" and work relatively)
 #
 # GitHub Pages (http://username.github.io)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
+#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK
 #   (urls will be prefixed with "/" and work relatively)
 #
 # GitHub Project Pages (http://username.github.io/project-name)
